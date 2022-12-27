@@ -1,6 +1,6 @@
 [package]
 name = "xlsx"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["Hilario Perez Corona <hpcorona@gmail.com>"]
 description = "writes xlsx files"
 license = "MIT"
